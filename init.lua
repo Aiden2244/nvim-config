@@ -1,4 +1,2 @@
-require('options')
-require('keybinds')
-require('config.lazy')
-require('colorscheme')
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")
