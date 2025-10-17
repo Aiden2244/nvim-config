@@ -6,3 +6,12 @@ debug
 foo.*
 *.log
 data
+*.log
+/.repro
+/.tests
+/build
+/debug
+/doc/tags
+foo.*
+node_modules
+tt.*
