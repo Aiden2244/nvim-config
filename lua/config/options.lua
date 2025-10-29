@@ -4,3 +4,9 @@
 
 -- Use system clipboard
 vim.o.clipboard = "unnamedplus"
+
+-- Set default tab witdh to 4
+vim.opt.shiftwidth = 4
+vim.opt.tabstop = 4
+vim.opt.softtabstop = 4
+vim.opt.expandtab = true
