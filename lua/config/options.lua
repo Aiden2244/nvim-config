@@ -10,3 +10,6 @@ vim.opt.shiftwidth = 4
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
 vim.opt.expandtab = true
+
+-- Add file path to top of file
+vim.opt.winbar = "%=%m %f"
